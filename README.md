@@ -1,43 +1,45 @@
-# Project Gaia
+# jekyll-uno
 
-## Documents
+Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
 
-[    Click to see Documents   ](https://szhielelp.github.io/JekyllTheme-ProjectGaia-Docs/#/)
+> :warning:
+  This theme requires ruby and rubygems installed
 
+### Features
 
-## Change Log
+* Clean layout
+* Resposive layout
+* Pagination
+* Syntax highlighting
+* Social links
+* Tags listing page
+* Categories listing page
+* Google Analytics integration
+* Disqus integration
 
+---
 
-- **Mar 3rd 2018**
-Fixed critical styles issues
+### Install and Test
 
-- **Mar 1st 2018**
-Updated sidebar to a smooth style.
+1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
+2. Enter the folder: `cd jekyll-uno/`
+3. If you don't have bundler installed: `gem install bundler`
+3. Install Ruby gems: `bundle install`
+4. Start Jekyll server: `bundle exec jekyll serve --watch`
 
-- **Dec 20th 2017**
-Integrated Lightbox
+Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
 
-- **Dec 19th 2017**
-Added post searchbox
+---
 
-- **Aug 20th, 2017**
-Added post plugin configuration
+### Demo and Download
 
-- **May 30th, 2017**
-Added a reading progressbar for post page.
+[Demo](http://joshgerdes.com/jekyll-uno/)
+[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
 
-- **May 6th, 2017**
-Updated font page
-Added global font style
+![jekyll-uno - free Jekyll theme](/screenshot.png)
 
-- **Apr 3nd, 2017**
-Added new font
+---
 
-- **Mar 5th, 2017**
-Style updated
+### Copyright and license
 
-- **Mar 1st, 2017**
-TOC plugin updated
-
-- **Feb 28th, 2017**
-Rebuild to include **Bootstrap 4-Alpha** and **JQuery 3**
+It is under [the MIT license](/LICENSE).
