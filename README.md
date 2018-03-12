@@ -1,74 +1,43 @@
-# Particle Jekyll Theme
+# Project Gaia
 
-![](./particle.jpg)
+## Documents
 
-This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
+[    Click to see Documents   ](https://szhielelp.github.io/JekyllTheme-ProjectGaia-Docs/#/)
 
-The Theme features:
 
-- Gulp
-- SASS
-- Sweet Scroll
-- Particle.js
-- BrowserSync
-- Font Awesome and Devicon icons
-- Google Analytics
-- Info Customization
+## Change Log
 
-## Basic Setup
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Particle Theme](https://github.com/nrandecker/particle/fork)
-3. Clone the repo you just forked.
-4. Edit `_config.yml` to personalize your site.
+- **Mar 3rd 2018**
+Fixed critical styles issues
 
-## Site and User Settings
+- **Mar 1st 2018**
+Updated sidebar to a smooth style.
 
-You have to fill some informations on `_config.yml` to customize your site.
+- **Dec 20th 2017**
+Integrated Lightbox
 
-```
-# Site settings
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
+- **Dec 19th 2017**
+Added post searchbox
 
-# User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-```
+- **Aug 20th, 2017**
+Added post plugin configuration
 
-**Don't forget to change your url before you deploy your site!**
+- **May 30th, 2017**
+Added a reading progressbar for post page.
 
-## Color and Particle Customization
-- Color Customization
-  - Edit the sass variables
-- Particle Customization
-  - Edit the json data in particle function in app.js
-  - Refer to [Particle.js](https://github.com/VincentGarreau/particles.js/) for help
+- **May 6th, 2017**
+Updated font page
+Added global font style
 
-## Running the blog in local
+- **Apr 3nd, 2017**
+Added new font
 
-In order to compile the assets and run Jekyll on local you need to follow those steps:
+- **Mar 5th, 2017**
+Style updated
 
-- Install [NodeJS](https://nodejs.org/)
-- Run `npm install`
-- Run `gulp`
+- **Mar 1st, 2017**
+TOC plugin updated
 
-## Questions
-
-Having any issues file a [GitHub Issue](https://github.com/nrandecker/particle/issues/new).
-
-## License
-
-This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
-
-## Credits
-
-This theme was partially designed with the inspiration from these fine folks
-- [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
-- [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
+- **Feb 28th, 2017**
+Rebuild to include **Bootstrap 4-Alpha** and **JQuery 3**
